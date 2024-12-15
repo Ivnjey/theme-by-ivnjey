@@ -1,8 +1,10 @@
 {
-  "name": "theme-by-ivnjey",
-  "displayName": "Theme by Ivnjey",
+  "name": "theme",
+  "displayName": "Moderate Dimm Theme by Ivnjey",
+  "publisher": "ivnjey",
   "description": "",
-  "version": "0.0.1",
+  "repository": "https://github.com/Ivnjey/theme-by-ivnjey",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -12,10 +14,13 @@
   "contributes": {
     "themes": [
       {
-        "label": "dimm",
+        "label": "Moderate Dimm",
         "uiTheme": "vs-dark",
         "path": "./themes/dimm-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }
