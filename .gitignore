@@ -8,3 +8,5 @@ themes/by-ivnjey-color-theme.json
 package-lock.json
 .vscodeignore
 .gitignore
+.gitattributes
+.vscode/launch.json
