@@ -1,2 +1,10 @@
 node_modules
 *.vsix
+.vscode
+LICENSE.md
+.gitattributes
+themes/vs2019_dark.json
+themes/by-ivnjey-color-theme.json
+package-lock.json
+.vscodeignore
+.gitignore
