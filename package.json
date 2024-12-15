@@ -1,0 +1,21 @@
+{
+  "name": "theme-by-ivnjey",
+  "displayName": "Theme by Ivnjey",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dimm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dimm-color-theme.json"
+      }
+    ]
+  }
+}
